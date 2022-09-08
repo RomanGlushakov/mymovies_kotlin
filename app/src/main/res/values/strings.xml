@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMoviesKotlin</string>
+    <string name="favorite_movies">Favorite Movies</string>
+</resources>
